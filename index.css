@@ -1,0 +1,29 @@
+.hero-text-holder {
+  border-bottom: 5px solid rgb(255, 255, 255);
+  border-radius: 50% 0% 50%;
+}
+
+.goal-sec {
+  border-bottom: 2px solid #0b1126;
+}
+
+.animate-bu-n {
+  animation: bounce 3s ease infinite alternate-reverse;
+}
+/* ==#== */
+
+/* media Query */
+
+/* @media only screen and (min-width: 320px) and (max-width: 400px) {
+  .mis-inn-Box {
+    background-color: rgb(8, 71, 71);
+    height: 200vh;
+  }
+} */
+
+/* @media only screen and (min-width: 401px) and (max-width: 600px) {
+  .mis-inn-Box {
+    background-color: aqua;
+    height: 2vh;
+  }
+} */
